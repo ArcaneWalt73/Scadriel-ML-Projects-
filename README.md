@@ -7,4 +7,4 @@ The Repo is for playing around with Datasets and trying to apply some models to 
   
 1.Lichess Dataset:
   A lichess(free online chess platform) dataset. Aim was to see how much of a chess match's outcome is predetirmined by factors such as player ratings, the opening
-  played etc. I attempted to apply 3 models: Decision Trees, Naive Bayes and KNN.
+  played etc. I attempted to apply 3 models: Decision Trees, Naive Bayes and Logistic Regression.
